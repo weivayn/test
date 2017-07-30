@@ -16,8 +16,8 @@
 title: This is Wei
 email: wei@thisiswei.com
 description: Everything about Wei...
-baseurl: "thisiswei" # the subpath of your site, e.g. /blog
-url: "http://thisiswei.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "test" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: weivayn
 github_username:  weivayn
 yelp_username: thisiswei
